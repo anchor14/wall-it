@@ -25,16 +25,22 @@ body {
   height: 10px !important;
 }
 .fluid-thumbnail-grid-image-price-container {
-  color: #1A5270 !important;
+  color: #0087AD !important;
 }
 .marketplace-lander .marketplace-lander-content-title {
+  font-size: 5.25em !important;
   font-weight: normal !important;
+  font-variant: all-small-caps !important;
 }
 .marketplace-lander p {
+  font-size: 2.0em !important;
   font-weight: 500 !important;
 }
 .noUi-target {
   border-color: #ffffff !important;
+}
+.home-fluid-thumbnail-grid-author-name {
+  font-size: 0.9em !important;
 }
 
 </style>
