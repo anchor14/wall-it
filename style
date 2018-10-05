@@ -1,0 +1,40 @@
+<style>
+h1 {
+  font-family: "Karla", sans-serif !important;
+}
+h2 {
+  font-family: "Karla", sans-serif !important;
+}
+body {
+  font-stretch: expanded !important;
+  line-height: 1.8 !important;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica
+  Neue", sans-serif !important;
+}
+
+.noUi-handle {
+  border-radius: 12px !important;
+}
+.noUi-horizontal .noUi-handle {
+  width: 16px !important;
+  height: 16px !important;
+  left: -6px !important;
+  top: -4px !important;
+}
+.noUi-horizontal {
+  height: 10px !important;
+}
+.fluid-thumbnail-grid-image-price-container {
+  color: #1A5270 !important;
+}
+.marketplace-lander .marketplace-lander-content-title {
+  font-weight: normal !important;
+}
+.marketplace-lander p {
+  font-weight: 500 !important;
+}
+.noUi-target {
+  border-color: #ffffff !important;
+}
+
+</style>
