@@ -8,8 +8,8 @@ h2 {
 body {
   font-stretch: expanded !important;
   line-height: 1.8 !important;
-  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica
-  Neue", sans-serif !important;
+  /* font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica
+  Neue", sans-serif !important; */
 }
 
 .noUi-handle {
@@ -43,6 +43,10 @@ body {
   font-size: 0.9em !important;
 }
 p:lang(ko) {
+  font-family: "Nanum Gothic", sans-serif !important;
+}
+
+body:lang(ko) {
   font-family: "Nanum Gothic", sans-serif !important;
 }
 </style>
