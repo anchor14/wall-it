@@ -1,2 +1,5 @@
-# wall-it-style
-stylesheet for wall-it
+# wall-it
+
+## Pricing algorithm for wall-it
+
+## Stylesheet for wall-it
