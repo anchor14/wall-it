@@ -1,0 +1,8 @@
+<script>
+function currencyChange() {
+var priceList = document.getElementsByClassName("fluid-thumbnail-grid-image-price");
+for (var i = 0; i < priceList.length; i++) {
+    priceList[i].innerHTML="price";
+}}
+currencyChange();
+</script>
