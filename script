@@ -2,7 +2,8 @@
 function currencyChange() {
 var priceList = document.getElementsByClassName("fluid-thumbnail-grid-image-price");
 for (var i = 0; i < priceList.length; i++) {
-    priceList[i].innerHTML="price";
+var myString = priceList[i].innerHTML;   
+priceList[i].innerHTML= myString.substr(2) + ' KOW';
 }}
 currencyChange();
 </script>
